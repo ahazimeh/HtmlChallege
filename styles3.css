@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(32, 32, 32);
+}
+nav{
+    margin: auto;
+    width:80%;
+    background-color: #333D3F;
+}
+.img{
+    margin: auto;
+    background-repeat: no-repeat;
+    background-image: url('Earth.jpg');
+    width:80%;
+    background-size: cover;
+    margin-left: 10%;
+}
+.navl{
+    display: flex !important;
+    justify-content: space-around;
+
+}
+.nl{
+    color:grey;
+    padding-right: 3%;
+    border-right : solid grey;
+}
+.nli{
+    color:grey;
+}
+a{
+    color: grey;
+}
+p,h1,h2,h3,h4,h5,label{
+    color: #798383;
+}
+.m{
+    margin-left: 30%;
+    clear: both;
+}
+p{
+    font-size: small;
+}
+.siteTitle{
+    font-size: 28px;
+    color: #798383;
+}
+.siteSlogan{
+    
+    color: #798383;
+}
+.sec{
+    position: absolute;
+    background-color: #212B2D;
+
+    /* margin-left: 22%; */
+    margin-left: 17%;
+    max-width: 65%;
+    height: max-content;
+
+    /* border: solid red; */
+    
+}
+.sec1{
+    margin-left: 10%;
+    float: left;
+    width:17%;
+}
+.sec2{
+    float: left;
+    margin-left: 6%;
+    width:57%;
+}
+.a {
+    /* display: block; */
+    /* width: 350px; */
+    /* height: 100px; */
+    /* padding: 5px; */
+    /* border: 1px solid blue;   */
+    /* background-color: yellow;  */
+}
+.a1{
+    border-right: solid grey;
+    padding-right: 3%;
+    float: left;
+    max-width: 42.5%;
+}
+.a2{
+      float: left;
+      margin-left: 15%;
+      /* border: 1px solid blue; */
+      max-width: 42.5%;
+}
+.l{
+margin-right: 70%;
+}
+hr{
+    border: 1px solid #798383;
+    color: #798383;
+}
+footer{
+    text-align: center;
+    color: grey;
+}
+legend{
+    border: 1;
+    color: grey;
+}
+.f{
+    border: 1px;
+    margin-top: 5%;
+    padding-top: 2%;
+}
+b{
+    color: grey;
+}
